@@ -115,7 +115,7 @@ Specific insights like these make the dashboard much more convincing to recruite
 
 ## Related Project
 
-The data behind this dashboard comes from my **COVID-19 SQL Data Exploration** project, which covers joins, CTEs, temp tables, window functions and views. *(Add a link to that repository here.)*
+The data behind this dashboard comes from my **COVID-19 SQL Data Exploration** project, which covers joins, CTEs, temp tables, window functions and views. *(https://github.com/Aladdin00/Covid_19_data_exploration.)*
 
 ## Next Steps
 
