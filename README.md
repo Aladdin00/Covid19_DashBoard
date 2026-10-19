@@ -125,4 +125,4 @@ The data behind this dashboard comes from my **COVID-19 SQL Data Exploration** p
 
 ## Contact
 
-Ali Eldin Mohamed · [LinkedIn](www.linkedin.com/in/alieldin190)  · alyshaker2004@gmail.com
+Ali Eldin Mohamed · [LinkedIn](https://www.linkedin.com/in/alieldin190)  · alyshaker2004@gmail.com
