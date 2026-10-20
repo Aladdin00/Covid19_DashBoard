@@ -113,6 +113,10 @@ Specific insights like these make the dashboard much more convincing to recruite
 └── README.md
 ```
 
+## Images 
+<img width="1256" height="854" alt="Covid dashboard" src="https://github.com/user-attachments/assets/28554ef2-7a59-4bf6-ade0-bab5f55eab35" />
+
+
 ## Related Project
 
 The data behind this dashboard comes from my **COVID-19 SQL Data Exploration** project, which covers joins, CTEs, temp tables, window functions and views. *(https://github.com/Aladdin00/Covid_19_data_exploration.)*
